@@ -1,4 +1,4 @@
-# La-Z Ltrs
+x# La-Z Ltrs
 ![logo](https://github.com/rodolfosotojr/la-z-Ltrs/blob/master/readme-logo.jpeg?raw=true)      *..Speak your sentiments*
 
 ## What our app does
