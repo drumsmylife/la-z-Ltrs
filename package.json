@@ -28,11 +28,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rodolfosotojr/la-z-Ltrs.git"
+    "url": "https://github.com/drumsmylife/la-z-Ltrs"
   },
   "author": "",
   "bugs": {
-    "url": "https://github.com/rodolfosotojr/la-z-Ltrs/issues"
+    "url": "https://github.com/drumsmylife/la-z-Ltrs/issues"
   },
-  "homepage": "https://github.com/rodolfosotojr/la-z-Ltrs#readme"
+  "homepage": "https://github.com/drumsmylife/la-z-Ltrs#readme"
 }
